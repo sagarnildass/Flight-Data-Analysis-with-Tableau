@@ -2,8 +2,13 @@
 ## Author : Sagarnil Das 
 ## Date : 07/06/2017
 
-## Link to my Tableau Workbook
+## Link to my Tableau Workbook:
+
 https://public.tableau.com/profile/sagarnil.das#!/vizhome/FlightDelayVer9/Story1
+
+## Link to the feedbacks received:
+
+https://discussions.udacity.com/t/feedback-needed-for-my-story/299098
 
 ## Summary
 This dataset is obtained from the RITA website which contains information about flight delays and performance. The dataset I used ranges from 2012-2017. The dataset can be found in the following website:
