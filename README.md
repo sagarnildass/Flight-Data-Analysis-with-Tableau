@@ -1,6 +1,6 @@
 # Flight data visualization using Tableau
-## * Author : Sagarnil Das * 
-## * Date : 07/06/2017 *
+## Author : Sagarnil Das 
+## Date : 07/06/2017
 
 ## Link to my Tableau Workbook
 https://public.tableau.com/profile/sagarnil.das#!/vizhome/FlightDelayVer9/Story1
